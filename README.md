@@ -405,4 +405,11 @@ sudo python2 get-pip.py</code></pre>
 <p><a href="https://cryptodeeptech.ru/tesla-brainwallet"><strong>Source: https://cryptodeeptech.ru/</strong></a><strong><a href="https://cryptodeeptech.ru/tesla-brainwallet" target="_blank" rel="noreferrer noopener">tesla-brainwallet</a></strong></p>
 
 
+---
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
 
